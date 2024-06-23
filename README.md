@@ -87,7 +87,7 @@
 
 ---
 ## Code
-AMB82-mini in Arduino IDE: [https://github.com/pp2457/portable_ChatGPT/blob/4c51eb501ad28c4968a9be072aff64677aa69bdc/gistfile1.py](https://github.com/pp2457/portable_ChatGPT/blob/4c51eb501ad28c4968a9be072aff64677aa69bdc/gistfile1.py)
+AMB82-mini in Arduino IDE: [https://github.com/pp2457/portable-ChatGPT/blob/552dc30b2f6330441d96d8d6d0d84f5617627be5/AudioDetection_HTTP_Post_Audio_TFTLCD.py](https://github.com/pp2457/portable-ChatGPT/blob/552dc30b2f6330441d96d8d6d0d84f5617627be5/AudioDetection_HTTP_Post_Audio_TFTLCD.py)
 ```
 /*
 
@@ -405,7 +405,7 @@ void encodeMP4andsendHttpPostRequest()
 }
 ```
 
-Sever: [https://github.com/pp2457/portable_ChatGPT/blob/88df36f57f1b0887c4aa3be76dfd9119792797f6/server.py](https://github.com/pp2457/portable_ChatGPT/blob/88df36f57f1b0887c4aa3be76dfd9119792797f6/server.py)
+Sever: [https://github.com/pp2457/portable-ChatGPT/blob/552dc30b2f6330441d96d8d6d0d84f5617627be5/AmebaPro2_whisper_llm_server.py](https://github.com/pp2457/portable-ChatGPT/blob/552dc30b2f6330441d96d8d6d0d84f5617627be5/AmebaPro2_whisper_llm_server.py)
 ```
 ## To run server: python AmebaPro2_whisper_llm_server.py
 ## To run client: RecordMP4_HTTP_Post_Audio.ino
